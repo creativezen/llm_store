@@ -1,6 +1,3 @@
-#ai 
-
----
 ### Статьи
 
 - [RAG (Retrieval Augmented Generation) — простое и понятное объяснение](https://habr.com/ru/articles/779526/)
